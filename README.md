@@ -1,8 +1,3 @@
-# React + Vite
+# Hackman
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A word-guessing game where players attempt to guess a hidden password letter by letter. Incorrect guesses lead to penalties, and the game ends if the maximum number of wrong guesses is reached.
